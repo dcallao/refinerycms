@@ -22,4 +22,4 @@ The [Refinery CMS Google Group](http://group.refinerycms.org) is a great place t
 
 * API (click 'File List' in top right) - <a href="http://api.refinerycms.org" title="http://api.refinerycms.org">http://api.refinerycms.org</a>
 * [GitHub Wiki](https://github.com/refinery/refinerycms/wiki)
-* [Guides](http://refinerycms.com/guides)
+* [Guides](https://www.refinerycms.com/guides)
